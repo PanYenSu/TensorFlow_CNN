@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "F:\\Anaconda\\envs\\tensorflow\\python.exe"
+    // "python.pythonPath": "C:\\Users\\shenwei\\AppData\\Local\\conda\\conda\\envs\\tensorflow\\",
+    "python.autoComplete.extraPaths": [
+        "F:\\Anaconda\\envs\\tensorflow",
+        "F:\\Anaconda\\lib\\site-packages"
+        // "C:\\Users\\ac-1\\appdata\\roaming\\python\\python37\\site-packages"
+    ],
+    "python.autoComplete.addBrackets":true,
+}
